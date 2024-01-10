@@ -25,23 +25,30 @@
 ### Задание 1
 
 Скриншот-1 к заданию 1:
+
 ![Скриншот-1](https://github.com/kshatyy/ddl/blob/main/img/1-1.png)
 Скриншот-2 к заданию 1:
+
 ![Скриншот-2](https://github.com/kshatyy/ddl/blob/main/img/1-2.png)
 Скриншот-3 к заданию 1:
+
 ![Скриншот-3](https://github.com/kshatyy/ddl/blob/main/img/1-3.png)
 Скриншот-4 к заданию 1:
+
 ![Скриншот-4](https://github.com/kshatyy/ddl/blob/main/img/1-4.png)
 Скриншот-5 к заданию 1:
+
 ![Скриншот-5](https://github.com/kshatyy/ddl/blob/main/img/1-5.png)
 
 
 ### Задание 2
 
 Скриншот-1 к заданию 2:
+
 ![Скриншот-1](https://github.com/kshatyy/ddl/blob/main/img/2-1.png)
 
 ### Задание 3
 
 Скриншот-1 к заданию 3:
+
 ![Скриншот-1](https://github.com/kshatyy/ddl/blob/main/img/3-1.png)
