@@ -23,6 +23,7 @@
 ---
 
 ### Задание 1
+
 Скриншот-1 к заданию 1:
 ![Скриншот-1](https://github.com/kshatyy/ddl/blob/main/img/1-1.png)
 Скриншот-2 к заданию 1:
@@ -36,9 +37,11 @@
 
 
 ### Задание 2
+
 Скриншот-1 к заданию 2:
 ![Скриншот-1](https://github.com/kshatyy/ddl/blob/main/img/2-1.png)
 
 ### Задание 3
+
 Скриншот-1 к заданию 3:
 ![Скриншот-1](https://github.com/kshatyy/ddl/blob/main/img/3-1.png)
